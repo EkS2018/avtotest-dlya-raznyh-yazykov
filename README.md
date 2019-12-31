@@ -1,0 +1,1 @@
+# avtotest-dlya-raznyh-yazykov
